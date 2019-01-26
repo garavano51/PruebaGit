@@ -1,0 +1,19 @@
+commit f45b665883bfcc7411c49d8cdef29b94134a91d9
+Author: Alejandro Garavano <alejandro_garavano@hotmail.com>
+Date:   Thu Jan 24 21:57:51 2019 -0300
+
+    Cambie estilos al Padding
+
+
+commit 9276ee77efbe495bccc164dc473fe15f7253176b
+Author: Alejandro Garavano <alejandro_garavano@hotmail.com>
+Date:   Thu Jan 24 21:46:42 2019 -0300
+
+    Agregue Padding 2
+
+
+commit f96fd07bb0f62b3c0999b9060c76dbc79e1c2aa1
+Author: Alejandro Garavano <alejandro_garavano@hotmail.com>
+Date:   Sun Jan 13 04:48:03 2019 -0300
+
+    Inicio del proyecto
